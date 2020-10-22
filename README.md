@@ -74,6 +74,7 @@ Also, beamsearch is used lots in CodinGame Fall/Spring challenges ;). It's the
 go-to strat.
 
 -----
+
 # Floodfill
 Floodfill is not a search algorithm, but it's so similar to BFS that I thought
 I should include it. It's an algorithm to find the different "rooms" on a map.
@@ -82,3 +83,8 @@ without worrying about directions. Eventually it'll run out of new places to go
 and you'll have found all the squares in the room. You just repeat this step
 until every square has been visited on the map and you get all of the squares
 for each room.
+
+-----
+
+# Problems
+Read the `Problems.md` file for a list of some problems to work on.
